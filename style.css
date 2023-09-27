@@ -6,6 +6,10 @@ p {
     font-size: medium;
 }
 
+body {
+    max-width: 90%;
+    margin: auto;
+}
 
 h1 {
     font-style: oblique;
