@@ -1,3 +1,13 @@
+blockquote {
+    border-width: 0 0 0 3;
+    border-style:groove;
+    border-left-color: #b92020;
+    width:50%;
+    font-size:160%;
+    background-color: rgb(218, 217, 217);
+    border-radius: 10px
+  }
+
 header {
     max-width: 90%;
     margin: auto;
@@ -10,15 +20,13 @@ p {
     padding: 0.2rem;
     font-size: medium;
 }
-blockquote {
-    width:50%;
-    font-size:160%;
-  }
+
 body {
     max-width: 90%;
     margin: auto;
+    background-color: #5a640485;
+    background-image:url(https://i.pinimg.com/736x/76/17/87/761787a625a57919a77b021cdad49f10.jpg);
 }
-
 h1 {
     font-style: oblique;
     color:rgb(226, 113, 43);
